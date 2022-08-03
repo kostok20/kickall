@@ -3,15 +3,15 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5369357228:AAEmg7hF-RvjX6fOc43J66_9xwT6VqyRpik"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "19418549"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3082cfb74e9ad4718a919b64b428701f"
 }
   },
   "buildpacks": [
